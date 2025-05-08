@@ -29,6 +29,10 @@ Mostra a distribuição de preços com uma curva de densidade, facilitando a vis
 ### 7️⃣ Gráfico de Regressão
 Demonstra a relação entre **desconto** e **nota**, mostrando uma tendência de correlação entre essas variáveis.
 ![regrecao_desconto_nota](https://github.com/user-attachments/assets/cf571d32-92cd-44e2-993e-2813c039d03c)
+
+## 📬 Contato
+João Pedro – [joao.prsg@outlook.com]
+
 ## 🛠 Tecnologias Utilizadas
 - **Python 3.x**
 - **pandas**
